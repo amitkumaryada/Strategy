@@ -9,9 +9,24 @@
     a)  Ensemble Methods --------------------------------------
         baiscs-max voting,avg,weighted avg----------
         advanced - bagging and boosting-----------
-        Bagginng algorithms- Bagging meta-estimator and Random Forest
+        for all algorithms, we will follow this procedure
+            1)Introduction to the algorithms
+            2) sample code
+            3) parameters
+        Bagginng algorithms- Bagging meta-estimator and Random Forest----(Criterion need to br learnt)
+            Note : the diffrence between two is the base estimators in Random forest is decision tree and it selects randpmly
+             set of features to decide the best split at each node of the decision tree.While Bagging meta estimator subset of 
+             dataset used all features and user specified base estimator is fitted on each of this subset.
+             To sum up, Random forest randomly selects data points and features, and builds multiple trees (Forest) .
+
         Boosting algorithms-AdaBoost,GBM,XGBM,LIGHTGBM,CATBOOST
-        algorithms- Rnadom Forest,Adaboost,GBM XGB,LightGBM,CATBOOST 
+        the best algorithms XGBM if nothing is given it handeled missing value too.
+        when the dta set is very huge LIGHTGBM perform better
+        if there are several categorial variable is given we can use CATBOOST it handels internally the categorical variable.
+        algorithms- Bagging meta-estimator and Random Forest,AdaBoost,GBM,XGBM,LIGHTGBM,CATBOOST
+
+
+
 
 
 
