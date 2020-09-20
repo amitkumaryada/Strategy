@@ -1,0 +1,21 @@
+1)  Machine Learning
+    Linear Regression
+    Logistic Regression
+    Naive bayes classifier
+    KNN
+    SVM
+    etc.
+
+    a)  Ensemble Methods --------------------------------------
+        baiscs-max voting,avg,weighted avg----------
+        advanced - bagging and boosting-----------
+        Bagginng algorithms- Bagging meta-estimator and Random Forest
+        Boosting algorithms-AdaBoost,GBM,XGBM,LIGHTGBM,CATBOOST
+        algorithms- Rnadom Forest,Adaboost,GBM XGB,LightGBM,CATBOOST 
+
+
+
+2)  Deep Learning
+    Basics- activation functions,cost function,loss optimization,etc
+    Popular Archetecture(NLP) -RNN,LSTM,ATTENTION,TRANSFORMER ,BERT,FLAIR
+            (COPMUTER VISION)  - CNN,INCEPTION V3,VGG16.VGG18,ALEXNET,RESNET,etc
