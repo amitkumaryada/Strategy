@@ -1,4 +1,6 @@
 1)  Machine Learning
+    Bias and variance and depnedency of lambda
+    regularization
     Linear Regression
     Logistic Regression
     Naive bayes classifier
