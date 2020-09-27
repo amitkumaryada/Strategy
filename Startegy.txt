@@ -36,3 +36,16 @@
     Basics- activation functions,cost function,loss optimization,etc
     Popular Archetecture(NLP) -RNN,LSTM,ATTENTION,TRANSFORMER ,BERT,FLAIR
             (COPMUTER VISION)  - CNN,INCEPTION V3,VGG16.VGG18,ALEXNET,RESNET,etc
+
+
+Questions:
+    1)  Choose final leyer activation function........
+    2)  solve bias variance
+    3)  Using dropout on high bias
+    4)  Why to not use linear activation function
+    5)  Regularization parameter
+
+
+
+3) Coding
+    Python Object Oriented programming-
